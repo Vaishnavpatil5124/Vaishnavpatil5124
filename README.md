@@ -20,7 +20,7 @@
 <a href="https://instagram.com/leoi_peaceful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leoi_peaceful" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vaishnav_5124" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaishnav_5124" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/patilvaishnav30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="patilvaishnav30" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaishnav_5124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaishnav_5124" height="30" width="40" /></a>
+
 <a href="https://auth.geeksforgeeks.org/user/patilvaiey9i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="patilvaiey9i" height="30" width="40" /></a>
 </p>
 
